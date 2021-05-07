@@ -36,12 +36,12 @@ http://localhost:3000/api/business/random
 ```
 
 ### Production
-- https://typescript-serverless-api-vercel-al75io70u-hhimanshu.vercel.app/api/hello?name=harit  
-- https://typescript-serverless-api-vercel-al75io70u-hhimanshu.vercel.app/api/address?total=20&type=zipCode  
-- https://typescript-serverless-api-vercel-al75io70u-hhimanshu.vercel.app/api/address?total=10&type=city  
-- https://typescript-serverless-api-vercel-al75io70u-hhimanshu.vercel.app/api/currency
-- https://typescript-serverless-api-vercel-al75io70u-hhimanshu.vercel.app/api/businesses
-- https://typescript-serverless-api-vercel-al75io70u-hhimanshu.vercel.app/api/business/random
+- https://listbusinesses.vercel.app/api/hello?name=harit  
+- https://listbusinesses.vercel.app/api/address?total=20&type=zipCode  
+- https://listbusinesses.vercel.app/api/address?total=10&type=city  
+- https://listbusinesses.vercel.app/api/currency
+- https://listbusinesses.vercel.app/api/businesses
+- https://listbusinesses.vercel.app/api/business/random
 
 ## Start Developing
 - Clone this repository (or better fork it so that you can make changes in your repo)  
